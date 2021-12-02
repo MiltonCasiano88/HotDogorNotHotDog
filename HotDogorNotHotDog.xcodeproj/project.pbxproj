@@ -13,7 +13,7 @@
 		A7D05BE02755B0E10000ADF6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7D05BDE2755B0E10000ADF6 /* Main.storyboard */; };
 		A7D05BE22755B0E40000ADF6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7D05BE12755B0E40000ADF6 /* Assets.xcassets */; };
 		A7D05BE52755B0E40000ADF6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A7D05BE32755B0E40000ADF6 /* LaunchScreen.storyboard */; };
-		A7D05BED2755BEA70000ADF6 /* Inceptionv3 (1).mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = A7D05BEC2755BEA70000ADF6 /* Inceptionv3 (1).mlmodel */; };
+		A7D05BED2755BEA70000ADF6 /* Inceptionv3.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = A7D05BEC2755BEA70000ADF6 /* Inceptionv3.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		A7D05BE12755B0E40000ADF6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A7D05BE42755B0E40000ADF6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A7D05BE62755B0E40000ADF6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A7D05BEC2755BEA70000ADF6 /* Inceptionv3 (1).mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = "Inceptionv3 (1).mlmodel"; path = "../../../../Downloads/Inceptionv3 (1).mlmodel"; sourceTree = "<group>"; };
+		A7D05BEC2755BEA70000ADF6 /* Inceptionv3.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = Inceptionv3.mlmodel; path = ../../../../Downloads/Inceptionv3.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +65,7 @@
 				A7D05BE12755B0E40000ADF6 /* Assets.xcassets */,
 				A7D05BE32755B0E40000ADF6 /* LaunchScreen.storyboard */,
 				A7D05BE62755B0E40000ADF6 /* Info.plist */,
-				A7D05BEC2755BEA70000ADF6 /* Inceptionv3 (1).mlmodel */,
+				A7D05BEC2755BEA70000ADF6 /* Inceptionv3.mlmodel */,
 			);
 			path = HotDogorNotHotDog;
 			sourceTree = "<group>";
@@ -144,7 +144,7 @@
 				A7D05BDD2755B0E10000ADF6 /* ViewController.swift in Sources */,
 				A7D05BD92755B0E10000ADF6 /* AppDelegate.swift in Sources */,
 				A7D05BDB2755B0E10000ADF6 /* SceneDelegate.swift in Sources */,
-				A7D05BED2755BEA70000ADF6 /* Inceptionv3 (1).mlmodel in Sources */,
+				A7D05BED2755BEA70000ADF6 /* Inceptionv3.mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
